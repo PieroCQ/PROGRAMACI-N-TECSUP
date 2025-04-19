@@ -1,0 +1,23 @@
+Algoritmo Bifurcacion_Multiple
+    Escribir "Ingrese una opción (1-5):"
+    Leer a
+	Si a=1 Entonces
+		Escribir "Elegiste la opción 1"
+	SiNo
+		Si a=2 Entonces
+			Escribir "Elegiste la opción 2 "
+		SiNo
+			Si a=3 Entonces
+				Escribir "Elegiste la opción 3 "
+			SiNo
+				Si a=4 Entonces
+					Escribir "Elegiste la opción 4 "
+				SiNo
+					Si a=5 Entonces
+						Escribir "Elegiste la opción 5 "
+					FinSi
+				FinSi
+			FinSi
+		FinSi
+	FinSi
+FinAlgoritmo
